@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaner37&theme=&layout=compact&hide=hlsl,shaderlab)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccaner37&range=last_year)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccaner37&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
