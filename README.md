@@ -3,9 +3,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaner37&theme=&layout=compact&hide=hlsl,shaderlab,mathematica)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-
+<!---
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccaner37&range=last_year)](https://github.com/anuraghazra/github-readme-stats)
-
+--->
 <!--END_SECTION:waka-->
 
 <!---
