@@ -1,6 +1,6 @@
 - @ccaner37 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaner37&theme=&layout=compact&hide=hlsl,shaderlab)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaner37&theme=&layout=compact&hide=hlsl,shaderlab,mathematica)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
