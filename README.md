@@ -1,4 +1,4 @@
-- My portfolio: ccaner37.github.io
+- My portfolio: https://ccaner37.github.io
 - Mainly interested in Game Development.
 
 
