@@ -2,7 +2,7 @@
 - Mainly interested in Game Development.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaner37&theme=&layout=compact&hide=hlsl,shaderlab,mathematica,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaner37&theme=&layout=compact&hide=hlsl,shaderlab,mathematica,html,css,scss,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!---
